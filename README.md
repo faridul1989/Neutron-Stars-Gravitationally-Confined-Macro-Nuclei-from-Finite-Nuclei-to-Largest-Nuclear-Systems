@@ -77,5 +77,23 @@ Neutron stars are the natural extension of ordinary atomic nuclei to the largest
 \bibitem{Andersson2012} N.~Andersson \textit{et al.}, Mon. Not. R. Astron. Soc. \textbf{427}, 2345 (2012).
 \bibitem{Montoli2023} M.~Montoli \textit{et al.}, Phys. Rev. D \textbf{107}, 103041 (2023).
 \end{thebibliography}
+\begin{document}
+
+%==============================================================================
+%  LICENSE
+%==============================================================================
+%\copyright 2025 Md. Faridul Islam Chowdhury
+%\hfill
+%\href{https://creativecommons.org/licenses/by/4.0/}{
+%This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+%You are free to share and adapt the material for any purpose, even commercially,
+%as long as you give appropriate credit, provide a link to the license,
+%and indicate if changes were made.}
+%
+%  Recommended short notice for arXiv and journal submissions:
+%  © 2025 The Author. Published under CC BY 4.0.
+%  https://creativecommons.org/licenses/by/4.0/
+%==============================================================================
+
 
 \end{document}
